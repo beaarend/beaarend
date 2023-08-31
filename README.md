@@ -1,4 +1,4 @@
-<img src="https://pngimg.com/d/cat_PNG50447.png" min-width="400px" max-width="300px" width="250px" align="right" alt="gatinho loiro que nem eu">
+<img src="/images/gatinho loiro.png" min-width="400px" max-width="300px" width="250px" align="right" alt="gatinho loiro que nem eu">
 
 <h1>Hey! 🔎 </h1>
 
