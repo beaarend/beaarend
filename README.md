@@ -2,10 +2,10 @@
 
 <h1>Hey! 🔎 </h1>
 
-I'm Beatriz, a **computer science** student who's interested in Computer Graphics.
+I'm Beatriz, a **computer science** student who's interested in Computer Vison, Image Processing and Machine Learning.
 
 - 💡 I’m currently studying at UFRGS
-- 👯 and I'm part of [PET Computação](https://github.com/petcomputacaoufrgs)
+- 👯 and I'm part of [Geologi-QA](https://geologi-qa.inf.ufrgs.br/)
 - 📫 Talk to me on **[Gmail](mailto:beatriz.arend@inf.ufrgs.br)** :)
 
 
